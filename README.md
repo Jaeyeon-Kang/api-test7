@@ -1,5 +1,8 @@
 ## NMSTEST-NextJs 프로젝트에 넣을 api 테스트 프로젝트
 
+
+-   api구조
+
 ```bash
 api/{srv_id}/cpu
 api/{srv_id}/memory
